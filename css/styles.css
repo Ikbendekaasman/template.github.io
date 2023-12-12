@@ -115,7 +115,7 @@ nav {
 
 .rating::before {
   content: "★★★★★";
-  color: #ccc;
+  color: hsl(0, 66%, 51%);
 }
 
 .rating[data-rating="5"]::before {
